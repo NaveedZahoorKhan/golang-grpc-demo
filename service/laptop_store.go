@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"example.com/grpc/pb"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/pb"
 	"github.com/jinzhu/copier"
 )
 

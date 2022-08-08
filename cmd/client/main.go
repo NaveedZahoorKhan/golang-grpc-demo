@@ -5,8 +5,8 @@ import (
 	"flag"
 	"log"
 
-	"example.com/grpc/pb"
-	"example.com/grpc/sample"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/pb"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/sample"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

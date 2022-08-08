@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"example.com/grpc/pb"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/pb"
 	"github.com/google/uuid"
 )
 

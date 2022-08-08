@@ -6,8 +6,8 @@ import (
 	"log"
 	"net"
 
-	"example.com/grpc/pb"
-	"example.com/grpc/service"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/pb"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/service"
 	"google.golang.org/grpc"
 )
 

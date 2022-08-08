@@ -3,7 +3,7 @@ package sample
 import (
 	"time"
 
-	"example.com/grpc/pb"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/pb"
 	"google.golang.org/protobuf/types/known/timestamppb"
 )
 

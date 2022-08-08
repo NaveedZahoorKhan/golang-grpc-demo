@@ -5,7 +5,7 @@ import (
 	"errors"
 	"log"
 
-	"example.com/grpc/pb"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/pb"
 	"github.com/google/uuid"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

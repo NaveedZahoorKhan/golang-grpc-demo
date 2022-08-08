@@ -5,10 +5,10 @@ import (
 	"net"
 	"testing"
 
-	"example.com/grpc/pb"
-	"example.com/grpc/sample"
-	"example.com/grpc/serializer"
-	"example.com/grpc/service"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/pb"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/sample"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/serializer"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/service"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"
 )

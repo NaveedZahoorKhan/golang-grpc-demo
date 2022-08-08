@@ -3,9 +3,9 @@ package serializer_test
 import (
 	"testing"
 
-	"example.com/grpc/pb"
-	"example.com/grpc/sample"
-	"example.com/grpc/serializer"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/pb"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/sample"
+	"github.com/NaveedZahoorKhan/golang-grpc-demo/serializer"
 	proto "github.com/golang/protobuf/proto"
 	"github.com/stretchr/testify/require"
 )
