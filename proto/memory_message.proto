@@ -1,0 +1,20 @@
+syntax = "proto3";
+package example.com;
+option go_package = "pb";
+message Memory {
+  enum Unit {
+    UNIT_BYTE = 0;
+    UNIT_KILOBYTE = 1;
+    UNIT_MEGABYTE = 2;
+    UNIT_GIGABYTE = 3;
+    UNIT_TERABYTE = 4;
+    UNIT_PETABYTE = 5;
+    UNIT_EXABYTE = 6;
+    UNIT_ZETTABYTE = 7;
+    UNIT_YOTTABYTE = 8;
+    UNKNOW = 9;
+  }
+
+  uint64 value = 1;
+  Unit unit = 2;
+}
