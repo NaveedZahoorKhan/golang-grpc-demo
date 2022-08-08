@@ -1,0 +1,64 @@
+{
+  "id": "ac2cb3bb-36b6-4628-8761-f584e4494753",
+  "brand": "Lenovo",
+  "name": "Thinkpad X1",
+  "cpu": {
+    "brand": "AMD",
+    "name": "Ryzen 3 PRO 3200GE",
+    "number_cores": 8,
+    "number_threads": 11,
+    "min_ghz": 2.0984554,
+    "max_ghz": 2.552603107028386
+  },
+  "ram": {
+    "value": "63",
+    "unit": "UNIT_GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "AMD",
+      "name": "RX 5700-XT",
+      "min_ghz": 1.4068199804950483,
+      "max_ghz": 1.533917028612668,
+      "memory": {
+        "value": "6",
+        "unit": "UNIT_GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SDD",
+      "memory": {
+        "value": "618",
+        "unit": "UNIT_GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "3",
+        "unit": "UNIT_TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 14.132136,
+    "resolution": {
+      "width": 2055,
+      "height": 1156
+    },
+    "panel": "IPS",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "QWERTZ",
+    "backlit": false
+  },
+  "price_usd": 2641.346552142045,
+  "release_year": 2018,
+  "updated_at": {
+    "seconds": "1659886511",
+    "nanos": 463134600
+  }
+}
